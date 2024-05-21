@@ -1,5 +1,5 @@
 # UI/UX PROJECTS
-This repository contains my projects based on "UI/UX Designing".
+This repository contains links for my projects based on "UI/UX Designing".
 ## ➤ Software Used
 • Figma <br/>
 • Canva
